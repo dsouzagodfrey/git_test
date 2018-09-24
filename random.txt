@@ -1,1 +1,2 @@
 this is just a test file added directly in the repo from github.com
+sample edit to understand and test version conflict in git.
